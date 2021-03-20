@@ -5,3 +5,6 @@ possibles pour une longueur donnée.
 
 Cependant, ce programme reste gourmand en ressources de disque c'est la raison pour laquelle il est préférable de ne pas
 l'exécuter sur son ordinateur personel avec une longueur donnée trop importante.
+
+PS: La wordlist générée par ce script n'est pas hébergeable ici car le fichier est trop lourd. Vous trouverez donc un 
+extrait du rendu dans "wordlist.png".
