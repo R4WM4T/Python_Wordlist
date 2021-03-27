@@ -13,3 +13,4 @@ for i in range(0,len(character_possibles)):
                     fichier.write(str(character_possibles[m]))
                     fichier.write("\n")
 fichier.close()
+############## ATTENTION!!! N'executez ce script que si votre PC a la puissance Nécessaire
